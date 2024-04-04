@@ -1,16 +1,23 @@
-article > h3 {
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+h3 {
     font-family: "Electrolize", sans-serif;
     font-weight: 400;
     font-style: normal;
     color: green;
+}
+
+.bgaqua {
     background-color: aqua;
   }
 
-article > p {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
- }
+
 
 .bgimage {
   background-image: url('https://picsum.photos/id/54/200/300');

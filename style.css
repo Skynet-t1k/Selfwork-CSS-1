@@ -1,4 +1,4 @@
-.titoli {
+article > h3 {
     font-family: "Electrolize", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -6,7 +6,7 @@
     background-color: aqua;
   }
 
-.roboto-regular {
+article > p {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -20,4 +20,9 @@
 button:hover {
   background-color: green; 
   color: white; 
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
 }
